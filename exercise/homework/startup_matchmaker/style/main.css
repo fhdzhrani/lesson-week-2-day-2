@@ -1,0 +1,59 @@
+/* logo */
+
+body {
+  margin: 0;
+
+}
+h1 {
+  display: block;
+  margin: 0;
+  color: yellow;
+  background-color: black;
+  padding: 0px;
+}
+
+/* navigation */
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #black;
+}
+
+.nav li {
+  background-color: black;
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.main p{
+  font-size: 20px;
+  text-align: center;
+}
+
+}
+.main span{
+  color: silver;
+  font-weight: bold;
+}
+
+
+.profile h3{
+  size: 30px;
+}
+
+.footer {
+  background-color: black;
+  color: #fff;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  padding: 0;
+}
